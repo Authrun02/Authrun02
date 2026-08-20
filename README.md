@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/wordmark?username=authrun02&theme=github-dark&label=authrun02" width="100%" alt="authrun02" />
-</p>
-
-<p align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=authrun02&theme=github-dark&mode=light" />
     <img src="https://www.gitskins.com/api/section/hero?username=authrun02&theme=github-dark&mode=dark" width="100%" alt="authrun02 — profile" />
   </picture>
+</p>
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/wordmark?username=authrun02&theme=github-dark&label=authrun02" width="100%" alt="authrun02" />
 </p>
 
 <p align="center"><a href="https://github.com/authrun02">GitHub</a></p>
