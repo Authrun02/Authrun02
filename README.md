@@ -1,7 +1,3 @@
-# Authrun02
-
-> Memorable developer positioning.
-
 ## Header
 
 Hi, I'm **Authrun02**. This README shares what I'm building, the tools I use, and the work I'm proud of.
