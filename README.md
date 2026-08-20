@@ -19,6 +19,12 @@
   <img src="https://www.gitskins.com/api/section/stack?username=authrun02&theme=github-dark" alt="authrun02 stack visual" />
 </p>
 
+## Profile scan
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/system-scan?username=authrun02&theme=github-dark" width="100%" alt="ASCII profile scan" />
+</p>
+
 ## Signal
 
 <p align="center">
@@ -37,12 +43,6 @@
 
 <p align="center">
   <img src="https://www.gitskins.com/api/section/social?username=authrun02&theme=github-dark" alt="authrun02 social visual" />
-</p>
-
-## Profile scan
-
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/system-scan?username=authrun02&theme=github-dark" width="100%" alt="ASCII profile scan" />
 </p>
 
 <hr />
