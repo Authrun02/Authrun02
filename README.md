@@ -1,6 +1,3 @@
-
-README.md
-53 lines
 <p align="center">
   <img src="https://www.gitskins.com/api/section/wordmark?username=authrun02&theme=github-dark&label=authrun02" width="100%" alt="authrun02" />
 </p>
