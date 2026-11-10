@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=authrun02&theme=github-dark&mode=light" />
-    <img src="https://www.gitskins.com/api/section/hero?username=authrun02&theme=github-dark&mode=dark" width="100%" alt="authrun02 — profile" />
+    <img src="https://www.gitskins.com/api/section/hero?username=authrun02&theme=github-dark&mode=dark" width="100%" alt="Reuel Berara — profile" />
   </picture>
 </p>
 
